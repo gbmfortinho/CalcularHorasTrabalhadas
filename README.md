@@ -1,2 +1,3 @@
-# CalcularHorasTrabalhadas
+# Calculadora de Horas Trabalhadas
+
 
